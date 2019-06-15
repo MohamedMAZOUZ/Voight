@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="13px" viewBox="0 0 50 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Menu</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Menu" fill="#192F4D">
+            <path d="M49.0922177,2.5 L15.9077823,2.5 C15.408502,2.5 15,1.9375 15,1.25 C15,0.5625 15.408502,0 15.9077823,0 L49.0922177,0 C49.591498,0 50,0.5625 50,1.25 C50,1.9375 49.591498,2.5 49.0922177,2.5" id="Fill-1"></path>
+            <path d="M48.7031682,12.5 L1.29683184,12.5 C0.583574328,12.5 0,11.9375 0,11.25 C0,10.5625 0.583574328,10 1.29683184,10 L48.7031682,10 C49.4164257,10 50,10.5625 50,11.25 C50,11.9375 49.4164257,12.5 48.7031682,12.5" id="Fill-1-Copy"></path>
+        </g>
+    </g>
+</svg>
