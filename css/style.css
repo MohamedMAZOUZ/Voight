@@ -73,7 +73,7 @@ section>ul {position: absolute;right: 0; bottom: 4%;}section>ul>li{display: inli
 article{background-color: #192F4D;padding: 1.4em 4em;}
 article p{font-size: 12px;}
 
-body{width: auto!important;/*overflow: hidden;*/background: #fdfbfc;padding: 0px 4%;}
+body{width: auto!important;overflow: inherit !important;background: #fdfbfc;}
 
 #content{
     position: relative;
