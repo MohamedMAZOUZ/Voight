@@ -31,7 +31,8 @@
                 $("body").css("overflow-y", "inherit");
 
             });
-            $("body").css({"padding": "inherit", "overflow": "inherit"});
+
+
 
             $(window).on('load', function () {
 
